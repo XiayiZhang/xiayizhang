@@ -1,6 +1,6 @@
 ### Hi 👋  
 I am XiayiZhang  
-MY PROFILE                       |                                         |
+MY PROFILE                                                                 |
 ---------------------------------|-----------------------------------------|  
 🔭 I’m currently working on      |HTML javascript css python               |  
 🎨 My favourite color            |Blue!                                    |
