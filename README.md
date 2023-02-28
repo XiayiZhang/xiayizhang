@@ -14,4 +14,4 @@ MY PROFILE                       |                                         |
 ⛓️ This is my webpage            |[VISIT IT!](https://xiayizhang.github.io)|  
 🇨🇳 My nationality                |China                                    |  
 # Please following ME!THANK U!  
-***And you can play my game on*** [HERE](https://xiayizhang.github.io/bomb_sweeper)  
+***And you can play my game on*** [HERE](https://xiayizhang.github.io/bomb_weeper)  
