@@ -12,6 +12,7 @@ MY PROFILE                       |                                         |
 😄 Pronouns                      |I don't know what's the Pronouns         |  
 ⚡  Fun fact                      |Well.I'm a student in middle schoon.     |  
 ⛓️ This is my webpage            |[VISIT IT!](https://xiayizhang.github.io)|  
-🇨🇳 My nationality                |China                                    |  
+🇨🇳  My nationality                |China                                    |
+🄱  my bilibili                   |[here](https://space.bilibili.com/3494378876176658)|  
 # Please following ME!THANK U!  
 ***And you can play my game on*** [HERE](https://xiayizhang.github.io/bomb_weeper)  
