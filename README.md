@@ -16,7 +16,7 @@ MY PROFILE                       |                                         |
 🄱  my bilibili                   |[here](https://space.bilibili.com/3494378876176658)|  
 # Please following ME!THANK U!  
 
-***All problems in computer science can be solved by another level of indirection***
-***Programming is like sex. One mistake and you have to support it for the rest of your life***
-***Don't reapeat yourself. Every piece of knowledge must have a single, unambiguous, authoritative representation within a system***
+***All problems in computer science can be solved by another level of indirection***<br>
+***Programming is like sex. One mistake and you have to support it for the rest of your life***<br>
+***Don't reapeat yourself. Every piece of knowledge must have a single, unambiguous, authoritative representation within a system***<br>
 ***It takes 3 times the effort to find and fix bugs in system test than when done by the developer. It takes 10 times the effort to find and fix bugs in the field than when done in system test. Therefore insist on unit tests by the developer***
