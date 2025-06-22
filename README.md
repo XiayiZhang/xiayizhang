@@ -8,7 +8,7 @@ MY PROFILE                       |                                         |
 👯 I’m looking to collaborate on |                                         |  
 🤔 I’m looking for help with     |Rust                                     |  
 💬 Ask me about                  |Jvm Languages                            |  
-📫 How to reach me               |The email or QQ                          |  
+📫 How to reach me               |The [email](mailto:zhangxiayi_1027@outlook.com) or QQ 2932358406                         |  
 😄 Pronouns                      |I don't know what's the Pronouns         |  
 ⚡  Fun fact                      | .                                      |  
 ⛓️ This is my webpage            |[VISIT IT!](https://xiayizhang.github.io)|  
