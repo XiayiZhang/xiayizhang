@@ -13,7 +13,7 @@ MY PROFILE                       |                                         |
 ⛓️ This is my webpage            |[VISIT IT!](https://xiayizhang.github.io)|  
 🇨🇳  My nationality                |China                                    |
 🄱  my bilibili                   |[here](https://space.bilibili.com/3494378876176658)|  
-# Please following ME!THANK U!  
+# 
 
 ***All problems in computer science can be solved by another level of indirection***<br>
 ***Programming is like sex. One mistake and you have to support it for the rest of your life***<br>
