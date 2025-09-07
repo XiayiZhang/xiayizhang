@@ -3,7 +3,7 @@ I am XiayiZhang  <br>
 most of my projects are deployed on my personal website. Visit my personal repository at [here](http://110.40.83.56:62475/)
 MY PROFILE                       |                                         |
 ---------------------------------|-----------------------------------------|  
-🔭 I’m currently working on      |HTML javascript css python and a little Assembly|  
+🔭 I’m currently working on      |Java, rust,.|  
 🎨 My favourite color            |Blue!                                    |
 🌱 I’m currently learning        |Java & Kt                                |  
 👯 I’m looking to collaborate on |                                         |  
