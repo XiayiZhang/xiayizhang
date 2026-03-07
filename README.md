@@ -21,7 +21,7 @@
 ---
 
 ### ⚡ Favorite Anime Character
-![Oyama Mahiro](https://www.gstatic.com/hostedimg/186fb21a-bdb2-4470-a2b2-a063ecc6bcee_landing)  
+![Oyama Mahiro](https://github.com/XiayiZhang/xiayizhang/blob/main/onimai.jpg)  
 *"自己同一性の危機だ！"* —— **OyamaMahiro**  
 
 ---
