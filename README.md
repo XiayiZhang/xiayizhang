@@ -27,9 +27,8 @@
 ---
 
 ### 📫 Connect with Me
-- Blog: [your-blog.com](https://your-blog.com)
-- Twitter: [@your_twitter](https://twitter.com/your_twitter)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+- QQ: [2932358406](0)
+- Email: [email](mailto:zhangxiayi_1027@outlook.com)
 
 ---
 
