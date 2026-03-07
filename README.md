@@ -8,7 +8,7 @@
 - **Rust** 🦀  
   Embracing fearless concurrency and zero-cost abstractions. Currently rewriting everything in Rust.
 - **Java / Kotlin** ☕  
-  JVM veteran, from Spring全家桶 to Ktor and Exposed.
+  Minecraft plugin veteran. Spigot, Paper, Bukkit — you name it, I've coded it.
 - **Haskell** (learning)  
   Trying to understand Monads. Currently at the stage of "won't touch it once it compiles".
 
