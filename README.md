@@ -27,7 +27,7 @@
 ---
 
 ### 📫 Connect with Me
-- QQ: [2932358406](0)
+- QQ: [2932358406](https://qm.qq.com/cgi-bin/qm/qr?k=0QOAP-jED6O0F76sNl2CCW0-F21qDSDF)
 - Email: [email](mailto:zhangxiayi_1027@outlook.com)
 
 ---
