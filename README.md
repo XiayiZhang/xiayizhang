@@ -16,7 +16,7 @@
 
 ### 📈 GitHub Stats
 ![Your GitHub stats](https://sts.stalux.top/api?username=XiayiZhang&show_icons=true&theme=radical)
-![Top Langs](https://sts.stalux.top/api/top-langs/?username=XiayiZhang&layout=compact&theme=gruvbox&hide=html,css,makefile)
+![Top Langs](https://sts.stalux.top/api/top-langs/?username=XiayiZhang&layout=compact&theme=gruvbox&hide=html,css,makefile.DTrace)
 
 ---
 
