@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Xiayizhang
 ---
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Onimai!;自己同一性の危機だ！;内存安全的诱惑🥵️;&center=true&font=Lato&size=32&color=ff88c2)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Onimai!;自己同一性の危機だ！;&center=true&font=Lato&size=32&color=ff88c2)](https://git.io/typing-svg)
 
 ---
 
@@ -32,4 +32,3 @@
 
 ---
 
-> "内存安全の诱惑"
